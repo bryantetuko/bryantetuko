@@ -17,9 +17,6 @@ My interests span UI/UX and product design, as well as software quality assuranc
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Katalon_Studio-000000?style=for-the-badge&logo=katalon&logoColor=white" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white" />
