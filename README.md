@@ -2,7 +2,7 @@
 
 I am a Computer Science student at BINUS University, specializing in Software Engineering. I enjoy exploring ideas and turning them into simple, intuitive, and meaningful digital experiences.
 
-My main interest lies in UI/UX and product design. I enjoy designing interfaces, creating interactive prototypes, and exploring how technology can turn ideas into useful digital products.
+My interests span UI/UX and product design, as well as software quality assurance. I enjoy designing user-friendly interfaces, creating interactive prototypes, and exploring software testing to ensure digital products are functional, reliable, and deliver a great user experience.
 
 ## Tech Stack & Tools
 
